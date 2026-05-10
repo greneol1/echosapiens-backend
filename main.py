@@ -1,16 +1,10 @@
 from fastapi import FastAPI
-from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
+from pathlib import Path
 
-app = FastAPI(title="EchoSapiens Backend")
+app = FastAPI()
 
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
+CORPUS_DIR = Path("corpus")
 
 class ChatRequest(BaseModel):
     question: str
@@ -19,34 +13,61 @@ class ChatRequest(BaseModel):
     corpus: str = "echosapiens"
     privacy: str = "no_personal_data_shared"
 
-class ChatResponse(BaseModel):
-    answer: str
-
 @app.get("/")
 def home():
-    return {
-        "status": "EchoSapiens backend is running",
-        "available_endpoint": "/chat"
-    }
+    return {"status": "EchoSapiens backend is running"}
 
 @app.get("/health")
 def health():
     return {"status": "ok"}
 
-@app.post("/chat", response_model=ChatResponse)
+def load_corpus():
+    texts = []
+
+    for file in CORPUS_DIR.glob("*.txt"):
+        try:
+            texts.append(file.read_text(encoding="utf-8"))
+        except Exception:
+            pass
+
+    return "\n\n".join(texts)
+
+@app.post("/chat")
 def chat(request: ChatRequest):
-    question = request.question
+    corpus_text = load_corpus()
+    question = request.question.lower()
+
+    if not corpus_text.strip():
+        return {
+            "answer": "Le corpus d’Olivier n’est pas encore chargé sur le backend. Ajoutez des fichiers .txt dans le dossier corpus/ puis redéployez Render."
+        }
+
+    # Recherche simple dans le corpus
+    relevant_parts = []
+    for paragraph in corpus_text.split("\n\n"):
+        if any(word in paragraph.lower() for word in question.split()):
+            relevant_parts.append(paragraph.strip())
+
+    if relevant_parts:
+        source_text = "\n\n".join(relevant_parts[:3])
+    else:
+        source_text = corpus_text[:2500]
 
     answer = f"""
-Bonjour, je suis le Digital Twin EchoSapiens d’Olivier.
+Je réponds à partir du corpus EchoSapiens d’Olivier.
 
-Votre question était :
-{question}
+Question :
+{request.question}
 
-Réponse provisoire :
-Le corpus EchoSapiens est bien connecté au backend Render. Cette première version répond actuellement comme démonstrateur. La prochaine étape consiste à connecter ici le vrai corpus RAG d’Olivier, avec les textes du livre et les sources autorisées.
+Réponse :
+Ce livre existe pour défendre une idée centrale : l’intelligence artificielle n’est pas seulement un outil technologique, mais une nouvelle force de transformation humaine. Elle modifie notre manière de penser, d’apprendre, de décider, de transmettre et peut-être même d’évoluer.
+
+À travers EchoSapiens, l’objectif est de prolonger le livre au-delà de la dernière page : le lecteur ne reçoit plus seulement un texte fermé, il entre dans un dialogue vivant avec les idées, l’auteur et les figures intellectuelles qui ont nourri le corpus.
+
+Extrait pertinent du corpus :
+{source_text}
 
 Aucune donnée personnelle n’est partagée avec des tiers.
 """
 
-    return ChatResponse(answer=answer)
+    return {"answer": answer}
