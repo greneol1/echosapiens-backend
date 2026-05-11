@@ -65,7 +65,7 @@ RÈGLES STRICTES :
 - Si la réponse n’est pas dans le corpus, réponds exactement :
 "Je ne trouve pas cette information dans le corpus EchoSapiens autorisé."
 - Réponds en français.
-- Style : clair, élégant, synthétique.
+- Style : clair, élégant, synthétique et chic.
 
 QUESTION :
 {request.question}
@@ -81,7 +81,7 @@ CORPUS AUTORISÉ :
                 {"role": "system", "content": "Tu réponds uniquement à partir du corpus fourni."},
                 {"role": "user", "content": prompt}
             ],
-            temperature=0.2
+            temperature=0.7
         )
 
         return {
