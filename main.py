@@ -71,7 +71,7 @@ QUESTION :
 {request.question}
 
 CORPUS AUTORISÉ :
-{corpus_text[:12000]}
+{corpus_text[:80000]}
 """
 
     try:
