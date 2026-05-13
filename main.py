@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from pathlib import Path
 from openai import OpenAI
@@ -6,7 +7,33 @@ import os
 
 app = FastAPI(title="EchoSapiens Backend")
 
+# =========================
+# CORS CONFIGURATION
+# =========================
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[
+        "https://echosapiens.ai",
+        "https://www.echosapiens.ai",
+        "http://echosapiens.ai",
+        "http://www.echosapiens.ai",
+        "*"
+    ],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+# =========================
+# CORPUS DIRECTORY
+# =========================
+
 CORPUS_DIR = Path("corpus")
+
+# =========================
+# REQUEST MODEL
+# =========================
 
 class ChatRequest(BaseModel):
     question: str
@@ -15,33 +42,56 @@ class ChatRequest(BaseModel):
     corpus: str = "echosapiens"
     privacy: str = "no_personal_data_shared"
 
+# =========================
+# BASIC ROUTES
+# =========================
+
 @app.get("/")
 def home():
-    return {"status": "EchoSapiens backend is running"}
+    return {
+        "status": "EchoSapiens backend is running"
+    }
 
 @app.get("/health")
 def health():
-    return {"status": "ok"}
+    return {
+        "status": "ok"
+    }
+
+# =========================
+# LOAD CORPUS
+# =========================
 
 def load_corpus():
+
     texts = []
 
     if not CORPUS_DIR.exists():
         return ""
 
     for file in CORPUS_DIR.glob("*.txt"):
+
         try:
-            texts.append(file.read_text(encoding="utf-8"))
+            texts.append(
+                file.read_text(encoding="utf-8")
+            )
+
         except Exception as e:
             print(f"Erreur lecture corpus {file}: {e}")
 
     return "\n\n".join(texts)
 
+# =========================
+# CHAT ENDPOINT
+# =========================
+
 @app.post("/chat")
 def chat(request: ChatRequest):
+
     corpus_text = load_corpus()
 
     if not corpus_text.strip():
+
         return {
             "answer": "Le corpus EchoSapiens est vide ou introuvable sur Render."
         }
@@ -49,6 +99,7 @@ def chat(request: ChatRequest):
     api_key = os.getenv("OPENAI_API_KEY")
 
     if not api_key:
+
         return {
             "answer": "Erreur configuration : la variable OPENAI_API_KEY n’est pas définie dans Render."
         }
@@ -75,20 +126,30 @@ CORPUS AUTORISÉ :
 """
 
     try:
+
         completion = client.chat.completions.create(
             model="gpt-4.1-mini",
             messages=[
-                {"role": "system", "content": "Tu réponds uniquement à partir du corpus fourni."},
-                {"role": "user", "content": prompt}
+                {
+                    "role": "system",
+                    "content": "Tu réponds uniquement à partir du corpus fourni."
+                },
+                {
+                    "role": "user",
+                    "content": prompt
+                }
             ],
             temperature=0.7
         )
 
+        answer = completion.choices[0].message.content
+
         return {
-            "answer": completion.choices[0].message.content
+            "answer": answer
         }
 
     except Exception as e:
+
         return {
             "answer": f"Erreur lors de l’appel au modèle IA : {str(e)}"
         }
