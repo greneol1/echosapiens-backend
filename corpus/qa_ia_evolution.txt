@@ -1,0 +1,30 @@
+Q1: Pourquoi l’IA peut-elle être comparée à une force évolutive ?
+R1: Parce qu’elle influence les comportements, les décisions et les capacités cognitives humaines.
+
+Q2: L’IA peut-elle modifier la société humaine ?
+R2: Oui, en transformant le travail, l’éducation, la santé et les relations sociales.
+
+Q3: Le livre est-il optimiste ou pessimiste sur l’IA ?
+R3: Le livre adopte une approche nuancée, entre opportunités et risques.
+
+Q4: Pourquoi parler d’évolution humaine aujourd’hui ?
+R4: Parce que les technologies numériques modifient déjà les trajectoires humaines.
+
+Q5: Quel rôle joue la donnée dans l’IA ?
+R5: La donnée est le carburant essentiel des systèmes intelligents.
+
+Q6: L’IA remplace-t-elle l’intelligence humaine ?
+R6: Non. Elle complète certaines capacités mais ne remplace pas la conscience humaine.
+
+Q7: Pourquoi l’éthique est-elle importante dans l’IA ?
+R7: Pour garantir un développement responsable et équitable des technologies.
+
+Q8: Le livre parle-t-il des Nations Unies ?
+R8: Oui, il évoque les enjeux internationaux de gouvernance de l’IA.
+
+Q9: Qu’est-ce qu’une sélection artificielle numérique ?
+R9: C’est l’idée que les algorithmes influencent indirectement les comportements humains.
+
+Q10: L’IA peut-elle changer notre manière de penser ?
+R10: Oui, notamment via les assistants numériques et les systèmes de recommandation.
+

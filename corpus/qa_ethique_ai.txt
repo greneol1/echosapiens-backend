@@ -1,0 +1,30 @@
+Q1: Pourquoi faut-il réguler l’IA ?
+R1: Pour limiter les risques liés aux biais, à la désinformation et aux abus.
+
+Q2: Le livre parle-t-il d’éthique ?
+R2: Oui, l’éthique est un thème majeur.
+
+Q3: Pourquoi la transparence des algorithmes est-elle importante ?
+R3: Parce qu’elle permet de comprendre les décisions automatisées.
+
+Q4: Les données personnelles sont-elles un enjeu ?
+R4: Oui, la protection des données est essentielle.
+
+Q5: L’IA doit-elle être contrôlée ?
+R5: Oui, par des règles adaptées et une gouvernance internationale.
+
+Q6: L’IA peut-elle être dangereuse ?
+R6: Comme toute technologie puissante, elle comporte des risques.
+
+Q7: Le livre est-il anti-technologie ?
+R7: Non. Il encourage une innovation responsable.
+
+Q8: Pourquoi parler de souveraineté numérique ?
+R8: Parce que les données et l’IA deviennent stratégiques.
+
+Q9: L’IA peut-elle renforcer les inégalités ?
+R9: Oui, si son accès reste limité à certaines populations.
+
+Q10: Quel est le rôle des organisations internationales ?
+R10: Coordonner les règles et promouvoir une IA éthique.
+

@@ -1,0 +1,30 @@
+Q1: Qui est Olivier Grenet ?
+R1: Olivier Grenet est un expert en qualité pharmaceutique, gouvernance de l’intelligence artificielle et transformation scientifique. Il travaille dans un environnement international et développe le concept EchoSapiens.
+
+Q2: Quel est le domaine principal d’Olivier Grenet ?
+R2: Son domaine principal est la qualité en recherche pharmaceutique, avec une expertise en conformité, data integrity et IA.
+
+Q3: Pourquoi Olivier Grenet s’intéresse-t-il à l’intelligence artificielle ?
+R3: Il considère l’IA comme une nouvelle force d’évolution humaine, capable de transformer la science, la société et la cognition.
+
+Q4: Qu’est-ce qu’EchoSapiens ?
+R4: EchoSapiens est un concept de livre interactif utilisant des QR codes et des digital twins pour prolonger le dialogue avec le lecteur.
+
+Q5: Quel est le slogan d’EchoSapiens ?
+R5: « Et si un livre ne se refermait jamais ? »
+
+Q6: Quel est le style du livre ?
+R6: Le style est scientifique, accessible, moderne et inspiré des débats contemporains sur l’IA.
+
+Q7: Pourquoi Olivier Grenet a-t-il écrit ce livre ?
+R7: Pour explorer l’impact de l’intelligence artificielle sur l’évolution humaine et la société.
+
+Q8: Quel est le lien entre Darwin et le livre ?
+R8: Le livre s’inspire des concepts d’évolution de Darwin pour analyser l’impact de l’IA.
+
+Q9: Quel est l’objectif du digital twin ?
+R9: Permettre aux lecteurs d’interagir avec une version numérique intelligente de l’auteur.
+
+Q10: Le digital twin remplace-t-il l’auteur ?
+R10: Non. Il prolonge les idées de l’auteur sans remplacer la pensée humaine.
+

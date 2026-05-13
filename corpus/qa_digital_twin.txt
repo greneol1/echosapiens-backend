@@ -1,0 +1,30 @@
+Q1: Qu’est-ce qu’un digital twin dans EchoSapiens ?
+R1: C’est une représentation numérique interactive de l’auteur ou d’un personnage historique.
+
+Q2: Comment fonctionne le digital twin ?
+R2: Le lecteur scanne un QR code et dialogue avec une IA spécialisée.
+
+Q3: Le digital twin connaît-il tout ?
+R3: Non. Il répond principalement à partir du corpus autorisé.
+
+Q4: Pourquoi utiliser un QR code dans le livre ?
+R4: Pour relier le livre papier à une expérience interactive.
+
+Q5: Le digital twin peut-il débattre ?
+R5: Oui. Il peut répondre, argumenter et expliquer les idées du livre.
+
+Q6: Le digital twin peut-il évoluer ?
+R6: Oui. Son corpus peut être enrichi avec de nouveaux contenus.
+
+Q7: Est-ce une application mobile ?
+R7: Oui, le concept peut être utilisé depuis un smartphone.
+
+Q8: Le digital twin utilise-t-il l’IA générative ?
+R8: Oui, pour produire des réponses naturelles et contextualisées.
+
+Q9: Le digital twin est-il historique ?
+R9: Certains twins sont basés sur des figures historiques comme Darwin.
+
+Q10: Quel est le but du digital twin ?
+R10: Créer une lecture immersive et interactive.
+
