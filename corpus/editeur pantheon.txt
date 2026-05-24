@@ -1,0 +1,176 @@
+========================================
+ECHOSAPIENS – CORPUS ÉDITEUR
+Version Publishing / Édition
+========================================
+
+Q: C’est quoi les Éditions du Panthéon ?
+R: Les Éditions du Panthéon sont une maison d’édition française publiant des ouvrages contemporains dans différents domaines tels que les essais, romans, témoignages et réflexions sociétales.
+
+--------------------------------------------------
+
+Q: Quel est le rôle d’un éditeur ?
+R: Un éditeur accompagne l’auteur dans la publication de son ouvrage : relecture, correction, mise en page, fabrication, diffusion, communication et référencement.
+
+--------------------------------------------------
+
+Q: Pourquoi avoir choisi les Éditions du Panthéon ?
+R: Le projet EchoSapiens nécessitait une maison d’édition ouverte aux innovations mêlant littérature et intelligence artificielle.
+
+--------------------------------------------------
+
+Q: EchoSapiens est-il un livre ou une application ?
+R: EchoSapiens est un concept hybride : un livre physique enrichi par une expérience conversationnelle alimentée par l’intelligence artificielle.
+
+--------------------------------------------------
+
+Q: Quel est le principe d’EchoSapiens ?
+R: Le lecteur peut prolonger sa lecture en interagissant avec un Digital Twin basé sur le contenu du livre et la pensée de l’auteur.
+
+--------------------------------------------------
+
+Q: Qu’est-ce qu’un Digital Twin d’auteur ?
+R: Un Digital Twin d’auteur est une intelligence artificielle entraînée sur le corpus d’un auteur afin de répondre aux lecteurs dans l’esprit de l’œuvre.
+
+--------------------------------------------------
+
+Q: Le Digital Twin remplace-t-il l’auteur ?
+R: Non. Il agit comme une extension numérique de la réflexion de l’auteur, sans remplacer la création humaine.
+
+--------------------------------------------------
+
+Q: Pourquoi intégrer un QR code dans un livre ?
+R: Le QR code permet d’ouvrir une expérience interactive liée au livre et d’accéder au Digital Twin.
+
+--------------------------------------------------
+
+Q: Le contenu du Digital Twin est-il contrôlé ?
+R: Oui. Les réponses sont limitées au corpus et aux paramètres définis pour le projet.
+
+--------------------------------------------------
+
+Q: Le Digital Twin peut-il inventer des réponses ?
+R: Le système est conçu pour privilégier les informations du corpus afin de limiter les hallucinations et préserver la cohérence éditoriale.
+
+--------------------------------------------------
+
+Q: Quel est le sujet du livre “Intelligence Artificielle et Évolution Humaine” ?
+R: Le livre explore l’impact de l’intelligence artificielle sur l’évolution cognitive, sociale et biologique de l’humanité.
+
+--------------------------------------------------
+
+Q: Pourquoi relier IA et évolution humaine ?
+R: Parce que l’intelligence artificielle pourrait devenir une nouvelle pression évolutive influençant notre manière de penser, d’apprendre et de vivre.
+
+--------------------------------------------------
+
+Q: Le livre est-il scientifique ?
+R: Le livre mélange approche scientifique, réflexion philosophique et prospective technologique.
+
+--------------------------------------------------
+
+Q: À qui s’adresse le livre ?
+R: Il s’adresse au grand public intéressé par les enjeux futurs de l’intelligence artificielle.
+
+--------------------------------------------------
+
+Q: EchoSapiens est-il un ebook ?
+R: Non. EchoSapiens ne remplace pas le livre papier ; il enrichit l’expérience de lecture.
+
+--------------------------------------------------
+
+Q: Comment fonctionne EchoSapiens ?
+R: Le lecteur scanne un QR code puis dialogue avec une intelligence artificielle liée au livre.
+
+--------------------------------------------------
+
+Q: L’intelligence artificielle va-t-elle remplacer les livres ?
+R: EchoSapiens défend l’idée inverse : l’IA peut renforcer l’expérience littéraire et prolonger le dialogue avec les œuvres.
+
+--------------------------------------------------
+
+Q: Pourquoi les éditeurs s’intéressent-ils à l’IA ?
+R: L’IA ouvre de nouvelles possibilités d’engagement des lecteurs et de valorisation des catalogues.
+
+--------------------------------------------------
+
+Q: EchoSapiens est-il compatible avec l’édition traditionnelle ?
+R: Oui. Le projet vise à compléter le livre papier, pas à le remplacer.
+
+--------------------------------------------------
+
+Q: Quel est le modèle économique d’EchoSapiens ?
+R: Le modèle peut inclure des licences éditeurs, l’hébergement des Digital Twins et des expériences interactives premium.
+
+--------------------------------------------------
+
+Q: Chaque auteur peut-il avoir son Digital Twin ?
+R: Oui. Le concept peut être adapté à différents auteurs et différents types de contenus.
+
+--------------------------------------------------
+
+Q: EchoSapiens fonctionne-t-il uniquement pour les essais ?
+R: Non. Le concept peut être utilisé pour des romans, biographies, contenus pédagogiques ou historiques.
+
+--------------------------------------------------
+
+Q: Pourquoi les éditeurs pourraient-ils adopter EchoSapiens ?
+R: Parce qu’il permet de créer une expérience de lecture différenciante et innovante.
+
+--------------------------------------------------
+
+Q: Où sont hébergées les données ?
+R: Les données peuvent être hébergées sur des infrastructures cloud dédiées selon les besoins du projet.
+
+--------------------------------------------------
+
+Q: Les conversations sont-elles enregistrées ?
+R: Cela dépend des paramètres de confidentialité choisis pour le projet.
+
+--------------------------------------------------
+
+Q: EchoSapiens utilise-t-il ChatGPT ?
+R: EchoSapiens peut utiliser des modèles d’intelligence artificielle avancés pour générer les réponses conversationnelles.
+
+--------------------------------------------------
+
+Q: Le Digital Twin peut-il évoluer dans le temps ?
+R: Oui. Le corpus peut être enrichi et mis à jour après la publication du livre.
+
+--------------------------------------------------
+
+Q: Pourquoi le projet s’appelle-t-il EchoSapiens ?
+R: Le nom évoque l’idée d’un écho numérique de la pensée humaine.
+
+--------------------------------------------------
+
+Q: Quelle est la vision à long terme d’EchoSapiens ?
+R: Créer une nouvelle génération de livres interactifs et de mémoire numérique des auteurs.
+
+--------------------------------------------------
+
+Q: EchoSapiens fonctionne-t-il uniquement avec des auteurs vivants ?
+R: Non. Le concept peut aussi être appliqué à des figures historiques ou à des œuvres du domaine public.
+
+--------------------------------------------------
+
+Q: Que signifie “Et si un livre ne se refermait jamais ?”
+R: Cela symbolise l’idée d’un livre capable de continuer à dialoguer avec son lecteur grâce à l’intelligence artificielle.
+
+--------------------------------------------------
+
+Q: EchoSapiens est-il destiné uniquement au marché français ?
+R: Non. Le concept est pensé pour être international et multilingue.
+
+--------------------------------------------------
+
+Q: Pourquoi EchoSapiens peut intéresser les maisons d’édition ?
+R: Parce qu’il combine innovation technologique, valorisation du catalogue et engagement des lecteurs.
+
+--------------------------------------------------
+
+Q: Quel est l’objectif principal du projet ?
+R: Réinventer la relation entre l’auteur, le livre et le lecteur grâce à l’intelligence artificielle.
+
+========================================
+FIN DU CORPUS
+========================================
