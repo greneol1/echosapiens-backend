@@ -1,0 +1,287 @@
+Voici le bloc à ajouter au même corpus .txt :
+==================================================
+SECTION 19 — PUBLICATIONS SCIENTIFIQUES PUBMED
+AUTEUR / CO-AUTEUR : O. GRENET
+LANGUE DE RÉPONSE DU DIGITAL TWIN : FRANÇAIS
+==================================================
+
+[RÈGLE]
+Toutes les réponses basées sur ces publications doivent être formulées en français, même si les titres, abstracts et sources originales PubMed sont en anglais.
+
+--------------------------------------------------
+[PUBLICATION PUBMED 1]
+Titre:
+Translational Safety Genetics
+
+Journal:
+Toxicologic Pathology
+
+Année:
+2017
+
+Référence:
+Toxicol Pathol. 2017 Jan;45(1):119-126.
+
+DOI:
+10.1177/0192623316675064
+
+PMID:
+27932582
+
+Auteurs:
+Bhoumik P, Del Rio-Espinola A, Hahne F, Moggs J, Grenet O.
+
+Affiliation:
+Preclinical Safety, Translational Medicine, Novartis Institutes for Biomedical Research, Basel, Switzerland.
+
+Résumé FR:
+Cette publication décrit l’émergence de la génétique translationnelle de sécurité comme un levier pour améliorer la découverte et le développement des médicaments. Les variations génétiques dans les cibles thérapeutiques, les interactions hors cible et les voies de métabolisme ou de disposition des médicaments peuvent expliquer des réponses pharmacologiques et toxicologiques différentes entre espèces animales, souches ou origines géographiques.
+
+Concepts clés:
+- génétique translationnelle de sécurité
+- sélection des espèces animales
+- toxicologie préclinique
+- pharmacogénétique
+- principes des 3R
+- réduction des études animales non pertinentes
+- interprétation du fond génétique animal
+
+Utilisation EchoSapiens:
+Cette référence renforce l’idée que la qualité de la donnée biologique et génétique conditionne la qualité de la décision scientifique. Elle peut être reliée au principe “Quality IN – Intelligence OUT”.
+
+--------------------------------------------------
+[PUBLICATION PUBMED 2]
+Titre:
+Mobilise-D insights to estimate real-world walking speed in multiple conditions with a wearable device
+
+Journal:
+Scientific Reports
+
+Année:
+2024
+
+Référence:
+Sci Rep. 2024 Jan 19;14(1):1754.
+
+DOI:
+10.1038/s41598-024-51766-5
+
+PMID:
+38243008
+
+PMCID:
+PMC10799009
+
+Collaborateur cité:
+Grenet O.
+
+Résumé FR:
+Cette étude valide l’utilisation d’un dispositif portable pour estimer la vitesse de marche en conditions réelles chez différents groupes de patients et de sujets âgés. Les résultats montrent une précision modérée à bonne selon les conditions, la complexité de la marche et les pathologies étudiées.
+
+Concepts clés:
+- santé numérique
+- wearable devices
+- vitesse de marche réelle
+- biomarqueurs numériques
+- validation technique
+- mobilité
+- Parkinson
+- sclérose en plaques
+- BPCO
+- insuffisance cardiaque
+
+Utilisation EchoSapiens:
+Cette publication peut alimenter les réponses sur la médecine numérique, les biomarqueurs digitaux, la collecte de données en vie réelle et la transformation de la recherche clinique par les capteurs connectés.
+
+--------------------------------------------------
+[PUBLICATION PUBMED 3]
+Titre:
+Author Correction: Mobilise-D insights to estimate real-world walking speed in multiple conditions with a wearable device
+
+Journal:
+Scientific Reports
+
+Année:
+2024
+
+Référence:
+Sci Rep. 2024 Nov 21;14(1):28878.
+
+DOI:
+10.1038/s41598-024-79454-4
+
+PMID:
+39572620
+
+PMCID:
+PMC11582556
+
+Collaborateur cité:
+Grenet O.
+
+Résumé FR:
+Correction officielle associée à l’article Mobilise-D publié dans Scientific Reports en 2024.
+
+Concepts clés:
+- correction scientifique
+- transparence éditoriale
+- intégrité de la publication
+- validation de données
+
+Utilisation EchoSapiens:
+Cette référence peut être utilisée pour illustrer l’importance de la correction scientifique, de la traçabilité et de l’intégrité dans la littérature biomédicale.
+
+--------------------------------------------------
+[PUBLICATION PUBMED 4]
+Titre:
+Toxicogenomics in drug development
+
+Journal:
+Toxicologic Pathology
+
+Année:
+2003
+
+Référence:
+Toxicol Pathol. 2003 Sep-Oct;31(5):471-479.
+
+DOI:
+10.1080/01926230390224656
+
+PMID:
+14692614
+
+Auteurs:
+Guerreiro N, Staedtler F, Grenet O, Kehren J, Chibout SD.
+
+Résumé FR:
+Cette revue présente la toxicogénomique comme l’intégration de la toxicologie, de la génomique et de la bioinformatique afin de comprendre les mécanismes moléculaires de toxicité et d’efficacité des médicaments.
+
+Concepts clés:
+- toxicogénomique
+- expression génique
+- microarrays
+- protéomique
+- empreintes moléculaires
+- biomarqueurs prédictifs
+- développement du médicament
+
+Utilisation EchoSapiens:
+Cette publication est centrale pour relier biologie moléculaire, qualité des données, prédiction toxicologique et intelligence artificielle appliquée à la recherche biomédicale.
+
+--------------------------------------------------
+[PUBLICATION PUBMED 5]
+Titre:
+Monitoring kidney safety in drug development: emerging technologies and their implications
+
+Journal:
+Current Opinion in Drug Discovery & Development
+
+Année:
+2008
+
+Référence:
+Curr Opin Drug Discov Devel. 2008 Jan;11(1):60-71.
+
+PMID:
+18175268
+
+Auteurs:
+Dieterle F, Marrer E, Suzuki E, Grenet O, Cordier A, Vonderscher J.
+
+Résumé FR:
+Cette publication analyse les technologies émergentes permettant de mieux détecter et surveiller la toxicité rénale induite par les médicaments. Elle souligne les limites des marqueurs classiques comme la créatinine et l’urée sanguine, qui sont souvent tardifs.
+
+Concepts clés:
+- sécurité rénale
+- néphrotoxicité
+- biomarqueurs urinaires
+- cystatine C
+- KIM-1
+- lipocaline-2
+- développement réglementaire
+- qualification de biomarqueurs
+
+Utilisation EchoSapiens:
+Cette référence soutient les réponses sur la sécurité préclinique, les biomarqueurs, la médecine prédictive et la validation réglementaire des données scientifiques.
+
+--------------------------------------------------
+[PUBLICATION PUBMED 6]
+Titre:
+Preclinical evaluation of potential nilotinib cardiotoxicity
+
+Journal:
+Leukemia Research
+
+Année:
+2011
+
+Référence:
+Leuk Res. 2011 May;35(5):631-637.
+
+DOI:
+10.1016/j.leukres.2010.11.001
+
+PMID:
+21129774
+
+Auteurs:
+Wolf A, Couttet P, Dong M, Grenet O, Heron M, Junker U, Ledieu D, Mahl A, Marrer E, Persohn E, Pognan F, Zhou W, Tsao J, Roman D.
+
+Résumé FR:
+Cette étude évalue le potentiel cardiotoxique du nilotinib en conditions précliniques. Les données suggèrent que le nilotinib, à des concentrations cliniquement pertinentes, n’induit pas de cardiotoxicité manifeste dans les modèles étudiés.
+
+Concepts clés:
+- nilotinib
+- cardiotoxicité
+- sécurité préclinique
+- myocytes cardiaques
+- apoptose
+- stress du réticulum endoplasmique
+
+Utilisation EchoSapiens:
+Cette publication peut être utilisée pour expliquer comment la sécurité cardiovasculaire d’un médicament est évaluée avant ou autour du développement clinique.
+
+--------------------------------------------------
+[PUBLICATION PUBMED 7]
+Titre:
+Heart structure-specific transcriptomic atlas reveals conserved microRNA-mRNA interactions
+
+Journal:
+PLoS One
+
+Année:
+2013
+
+Référence:
+PLoS One. 2013;8(1):e52442.
+
+DOI:
+10.1371/journal.pone.0052442
+
+PMID:
+23300973
+
+PMCID:
+PMC3534709
+
+Auteurs:
+Vacchi-Suzzi C, Hahne F, Scheubel P, Marcellin M, Dubost V, Westphal M, Boeglen C, Büchmann-Møller S, Cheung MS, Cordier A, De Benedetto C, Deurinck M, Frei M, Moulin P, Oakeley E, Grenet O, Grevot A, Stull R, Theil D, Moggs JG, Marrer E, Couttet P.
+
+Résumé FR:
+Cette publication présente un atlas transcriptomique et microARN spécifique des structures cardiaques chez plusieurs espèces mammifères. Elle identifie des signatures conservées entre espèces et des interactions microARN-ARNm potentiellement importantes pour la physiopathologie cardiaque.
+
+Concepts clés:
+- microARN
+- transcriptomique cardiaque
+- interactions microARN-ARNm
+- physiopathologie cardiaque
+- atlas moléculaire
+- comparaison interespèces
+
+Utilisation EchoSapiens:
+Cette référence peut nourrir les réponses sur la biologie des systèmes, la régulation post-transcriptionnelle et les signatures moléculaires conservées.
+
+==================================================
+FIN DU BLOC À AJOUTER AU CORPUS
+==================================================
